@@ -1,4 +1,4 @@
-//This code-example comes from the official Wiki of Seeed Studio: http://wiki.seeedstudio.com/Grove-Mouse_Encoder/
+//This code-example comes from the official Wiki of Seeed Studio: http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/
 
 int adcPin = A0; // select the input pin for the potentiometer
 int ledPin = A1; // select the pin for the LED

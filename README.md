@@ -25,4 +25,4 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 [Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Slide_Potentiometer/)
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/schiebepotentiometer/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/schiebepotentiometer/)
